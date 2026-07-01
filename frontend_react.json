@@ -1,0 +1,21 @@
+{
+  "name": "medical-ai-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "axios": "^1.6.0",
+    "three": "^0.158.0",
+    "@react-three/fiber": "^8.15.0",
+    "@react-three/drei": "^9.88.0",
+    "@cornerstonejs/core": "^1.15.0",
+    "@cornerstonejs/tools": "^1.15.0",
+    "react-dropzone": "^14.2.3",
+    "react-hot-toast": "^2.4.1",
+    "framer-motion": "^10.16.0",
+    "tailwindcss": "^3.3.6",
+    "clsx": "^2.0.0"
+  }
+}
